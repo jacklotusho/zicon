@@ -1,8 +1,7 @@
 .icon-zicon {
-    background-image: url('https://raw.githubusercontent.com/jacklotusho/zicon/master/zicon.png');
+    background-image: url("https://raw.githubusercontent.com/jacklotusho/zicon/master/zicon.png");
     background-repeat: no-repeat;
-    width: 200px;
-    height: 200px;
+    width: 50px;
+    height: 50px;
     display: block;
-    float: left;
 }
